@@ -21,7 +21,7 @@ public class Main {
         int orange = 150000;
         System.out.println("Значение перемменой orange с типом int равно " + orange);
 
-        long mandarin = 1000000l;
+        long mandarin = 1000000L;
         System.out.println("Значение перемменой mandarin с типом long равно " + mandarin);
 
         float cookie = 5f;
@@ -35,7 +35,7 @@ public class Main {
         short b = -159;
         short c = 569;
         int d = 27897;
-        long e = 987678965549l;
+        long e = 987678965549L;
         float f = 2.786f;
         double g = 27.12;
         System.out.println(a + " " + b + " " + c + " " + d + " " + e + " " + f + " " + g);
